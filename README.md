@@ -41,7 +41,7 @@ O Memector é uma ferramenta de código aberto desenvolvida para identificar pos
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/memector.git
+git clone https://github.com/claytoncova/memector.git
 cd memector
 ```
 
